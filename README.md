@@ -24,3 +24,8 @@ Follow the instructions in the React Native documentation to set up an emulator:
 https://reactnative.dev/docs/environment-setup
 After setting up the emulator, run the app:
 
+```bash
+npx react-native run-android # For Android
+npx react-native run-ios # For iOS (requires a MacOS computer)
+```
+

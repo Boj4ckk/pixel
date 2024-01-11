@@ -7,5 +7,20 @@ This application, built with React Native, showcases a catalog of profiles, each
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-native-profile-viewer.git
-   cd react-native-profile-viewer
+   git clone https://github.com/idontwannafailmyexam/pixel.git
+   cd pixel
+   ```
+## Install dependencies
+```bash
+npm install
+```
+## Running the App
+To run the app, you can use either a mobile emulator or Expo CLI.
+
+
+### Using an Emulator
+Follow the instructions in the React Native documentation to set up an emulator:
+
+https://reactnative.dev/docs/environment-setup
+After setting up the emulator, run the app:
+

@@ -1,4 +1,4 @@
-# React Native Profile Viewer
+# React Native Pixel
 
 ## Description
 This application, built with React Native, showcases a catalog of profiles, each featuring a profile picture, name, age, and a gallery of photos. Users can browse through the profiles and view the images associated with each.
@@ -28,4 +28,16 @@ After setting up the emulator, run the app:
 npx react-native run-android # For Android
 npx react-native run-ios # For iOS (requires a MacOS computer)
 ```
+## Using Expo CLI
+Alternatively, you can use Expo CLI to run the app on your physical device or an emulator. First, install Expo CLI:
+```bash
+npm install -g expo-cli
+```
+Then, start the app
+```bash
+expo start
+```
+
+## For more details on using Expo CLI, visit the Expo CLI documentation.
+
 

@@ -1,4 +1,5 @@
 # React Native Pixel
+A mobile application (iOS, Android) developed using React Native, which lists different personal profiles and their images. This project was undertaken to familiarize myself with React.
 
 ## Description
 This application, built with React Native, showcases a catalog of profiles, each featuring a profile picture, name, age, and a gallery of photos. Users can browse through the profiles and view the images associated with each.
